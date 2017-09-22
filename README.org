@@ -1,0 +1,8 @@
+* Bulma Hiccup
+*bulma-hiccup* produces Hiccup-compatible markup for working with the Bulma CSS
+framework (potentially negating the need to use SASS mixins).
+
+* License
+Copyright © 2017 Invetica Ltd.
+
+Distributed under the MIT License.
